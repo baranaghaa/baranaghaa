@@ -1,4 +1,4 @@
-# Hello, Im MrHada <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+# Hello, Im Baran <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="25px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrLuxxy&color=blueviolet)
 ### Languages and Tools:
