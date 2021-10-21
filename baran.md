@@ -1,9 +1,7 @@
-# >Hello, I'm Baran
+# >My Name Is Baran
 <hr>
-<b> I Make A Project Of all Service.</b>
-<h1 style="font-family: Times New Roman"> All The Time I Wach The Shrewd</h1>
-<p style="color: blue"> My Hope </p>
-   <p style="color: red"> Is </p>
-   <p style="color: green"> To Be </p>
-   <p style="color: yellow"> The Number One </p>
-   <p style="color: pink">  Of The World...! </p>
+<b> 'I Make A Project all Service.</b>
+<hr>
+<b1>  All The Time I Wach The Shrewd.!</b1>
+<hr>
+<h2>  My Hope Is To Be The Number One Of The World...!
