@@ -7,8 +7,8 @@
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" height="70" width="130" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" >
-<img align="left" height="70" width="130" src=" https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg" >
+<img align="left"  width="26" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" >
+<img align="left"  width="26" src=" https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg" >
 
 <br />
 <br />
