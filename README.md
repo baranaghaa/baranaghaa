@@ -1,4 +1,4 @@
-# Hello, Im Baran <img src="https://www.google.com/amp/s/www.getstreamline.com/blog/special-district-trend-alert...-gifs%3fhs_amp=true" width="25px">
+# Hello, Im Baran <img src="https://github.com/baranaghaa/baranaghaa/blob/master/It.gif" width="25px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrLuxxy&color=blueviolet)
 ### Languages and Tools:
