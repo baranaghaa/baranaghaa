@@ -1,4 +1,4 @@
-# Hello, Im Baran <img src="https://media.discordapp.net/attachments/1196524977374101565/1209792681077772339/215911.gif" width="25px">
+# Hello, Im Baran <img src="https://media.discordapp.net/attachments/1196524977374101565/1209792681077772339/215911.gif" width="50px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrLuxxy&color=blueviolet)
 ### Languages and Tools:
