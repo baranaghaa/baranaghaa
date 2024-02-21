@@ -1,4 +1,4 @@
-# Hello, Im Baran <img src="https://dribbble.com/shots/15716022-Animated-Icon-gif?utm_source=Clipboard_Shot&utm_campaign=albertogareppe&utm_content=Animated%20Icon%20gif&utm_medium=Social_Share" width="25px">
+# Hello, Im Baran <img src="https://www.google.com/amp/s/www.getstreamline.com/blog/special-district-trend-alert...-gifs%3fhs_amp=true" width="25px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrLuxxy&color=blueviolet)
 ### Languages and Tools:
