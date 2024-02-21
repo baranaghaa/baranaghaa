@@ -1,4 +1,4 @@
-# Hello, Im Baran <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="25px">
+# Hello, Im Baran <img src="https://media.discordapp.net/attachments/1196524977374101565/1209792681077772339/215911.gif?ex=65e8363c&is=65d5c13c&hm=6c168c2f9bdfcbe20cc40f7ecec70ffd105dca0b25f6b401efba7627e0e5afab&" width="25px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrLuxxy&color=blueviolet)
 ### Languages and Tools:
@@ -16,7 +16,7 @@
 
 <details>
   <summary><b>My </b>Name is</summary>
-  <h1>Muhandes Baran</h1>
+  <h1>Baran Agha</h1>
   
 </details>
 
