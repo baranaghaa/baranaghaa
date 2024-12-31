@@ -18,7 +18,7 @@
 
 <div style="text-align:center;">
   <h6 style="color: lightblue; font-size: 12px">Dart</h6>
-<img alt="dart" width="24px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg"/>
+<img alt="dart" width="34px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg"/>
 <div/>
 
 
