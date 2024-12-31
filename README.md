@@ -1,4 +1,4 @@
-# Hello, I'm Khalis-IT<b></></b>
+# Hello!<b></></b>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Baranaghaa&color=blueviolet)
 ### Languages:
@@ -23,7 +23,6 @@
 
 <details>
   <summary><b>My </b>Name is</summary>
-  <h1>Baran Agha</h1>
-  <p style="color:lightblue;">Programmer<p/>
+  <h1>Khalis Khalil</h1>
 </details>
 
