@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Baranaghaa&color=blueviolet)
 
 
-<details>
+<details open="true">
   <summary><b>My </b>Name is</summary>
   <h1>Khalis Khalil</h1>
 </details>
