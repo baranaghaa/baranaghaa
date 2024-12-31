@@ -14,10 +14,10 @@
 
 
 <div style=" padding: 4px; text-align: center;">
-  <h1 style="color: lightblue; font-size: 12px">Flutter</h1>
-  <div style="width: 24px">
-    <img align="left" alt="flutter" width="100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-  </div>
+  <h6 style="color: lightblue; font-size: 12px">Flutter</h6>
+
+    <img align="left" alt="flutter" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+  
 </div>
 
 
