@@ -8,7 +8,6 @@
   <h1>Khalis Khalil</h1>
 </details>
 <br/>
-
 ### Languages:
 
 <div style="text-align:center; display:flex;">
