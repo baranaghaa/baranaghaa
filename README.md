@@ -1,6 +1,6 @@
 # Hello, Im Baran <b></></b>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrLuxxy&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Baranagha&color=blueviolet)
 ### Languages:
 
 
