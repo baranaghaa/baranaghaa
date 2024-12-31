@@ -32,6 +32,6 @@
 <details>
   <summary><b>My </b>Name is</summary>
   <h1>Baran Agha</h1>
-  
+  <p style="color:lightblue;">Programmer<p/>
 </details>
 
