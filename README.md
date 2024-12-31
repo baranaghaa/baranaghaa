@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://khalisit.tech](https://khalisit.tech)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://wa.me/+9647808954112">Message me</a>
 </p>
