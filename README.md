@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Programming](https://archivegroup.xyz)
 
-- 👨‍💻 All of my projects are available at[Khalis-IT][https://khalisit.tech](https://khalisit.tech)
+- 👨‍💻 All of my projects are available at [Khalis-IT][https://khalisit.tech](https://khalisit.tech)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
