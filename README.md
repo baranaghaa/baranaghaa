@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khalis-IT</h1>
 <h3 align="center">I'm frontend and backend developer</h3>
-<img align="right" alt="logo" width="200px"  src="https://cdn-icons-png.flaticon.com/512/1995/1995515.png"/>
+<img align="right" alt="logo" width="300px"  src="https://cdn-icons-png.flaticon.com/512/1995/1995515.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranaghaa&label=Profile%20views&color=0e75b6&style=flat" alt="baranaghaa" /> </p>
 
