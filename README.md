@@ -8,7 +8,7 @@
   <h1>Khalis Khalil</h1>
 </details>
 
-### Languages:
+### <h6 style="color: lightblue; font-size: 12px">I know these</h6> Languages:
 
 <div style="text-align:center; display:flex;">
   <h6 style="color: lightblue; font-size: 12px">Flutter & Dart</h6>
