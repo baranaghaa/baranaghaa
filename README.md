@@ -8,7 +8,7 @@
   <h1>Khalis Khalil</h1>
 </details>
 
-<h6 style="display: flex; color: lightblue; font-size: 22px">I know these <b style=" font-size: 28px; font-weight:700;"> Languages: <b/> </h6>
+<h5 style="display: flex; color: lightblue; font-size: 2px">I know these <b> Languages: <b/> </h5>
 
 <div style="text-align:center; display:flex;">
   <h6 style="color: lightblue; font-size: 12px">Flutter & Dart</h6>
