@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://wa.me/009647808954112">Message me</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
