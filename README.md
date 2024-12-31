@@ -13,6 +13,14 @@
 <img align="left" alt="Mysql" width="80" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" />
 
 
+<div style=" padding: 4px; text-align: center;">
+  <h1 style="color: lightblue; font-size: 12px">Flutter</h1>
+  <div style="width: 24px">
+    <img align="left" alt="flutter" width="100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+  </div>
+</div>
+
+
 <br />
 <br />
 
