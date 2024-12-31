@@ -7,7 +7,7 @@
   <summary><b>My </b>Name is</summary>
   <h1>Khalis Khalil</h1>
 </details>
-<br/>
+
 ### Languages:
 
 <div style="text-align:center; display:flex;">
