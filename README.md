@@ -6,7 +6,7 @@
 <div style="text-align:center; display:flex;">
   <h6 style="color: lightblue; font-size: 12px">Flutter & Dart</h6>
 <img alt="flutter" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
-<img alt="dart" width="74px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg"/>
+<img alt="dart" width="78px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg"/>
 <div/>
 <img alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
