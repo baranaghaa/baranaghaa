@@ -15,6 +15,7 @@
 
 <h6 style="color: lightblue; font-size: 12px">Database</h6>
 <img alt="Mysql" width="80" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" />
+<img alt="firebase" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
 
 <br />
